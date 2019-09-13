@@ -24,3 +24,7 @@
 [下载](https://github.com/eexpress/bin/raw/master/rename.bash)
 
 ---
+##catimg
+![Awuuu](catimg的输出.png)
+
+---
