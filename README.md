@@ -29,6 +29,14 @@
 [脚本下载](https://github.com/eexpress/bin/raw/master/rename.bash)
 
 ---
+## o
+> 终端下鼠标选择文件，按o回车，快速打开(xdg-open方式)。
+
+![o](o命令.png)
+
+[脚本下载](https://github.com/eexpress/bin/raw/master/o)
+
+---
 ## catimg
 ![Awuuu](catimg的输出.png)
 
