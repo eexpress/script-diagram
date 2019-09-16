@@ -8,6 +8,13 @@
 
 [脚本下载](https://github.com/eexpress/bin/raw/master/fd)
 
+## loc
+
+> - 另外一个类似功能的locate版本。
+- 定位当前目录文件。参数为"与"关系。
+
+[脚本下载](https://github.com/eexpress/bin/raw/master/loc)
+
 ---
 ## gc
 > - 简化强化了的多个关键词grep，参数为"或"关系。
@@ -30,7 +37,8 @@
 
 ---
 ## o
-> 终端下鼠标选择文件，按o回车，快速打开(xdg-open方式)。
+> - 终端下鼠标选择文件，按o回车，快速打开(xdg-open方式)。
+- 依赖xclip命令。
 
 ![o](o命令.png)
 
