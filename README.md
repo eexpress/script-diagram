@@ -50,6 +50,14 @@
 ![Awuuu](catimg的输出.png)
 
 ---
+## get-story-爬小说
+> 爬在线阅读的网站。暂时支持两个网站，有三个网站无法GET，很奇怪。
+
+![get-story-爬小说](get-story-爬小说.png)
+
+[脚本下载](https://github.com/eexpress/bin/raw/master/get-story-爬小说.pl)
+
+---
 
 ## git
 ![git](git命令.png)
