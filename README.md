@@ -67,6 +67,15 @@
 [脚本下载](https://github.com/eexpress/bin/raw/master/get-story-爬小说.pl)
 
 ---
+## 全能转换格式
+> ss/vmess字符串，或者网页明文表格文本，转换成v2ray格式的json文件。
+支持ss原版的二维码识别。(需要安装zbarimg)
+为了统一使用v2ray，不支持ssr字符串。
+或从json文件，转换成对应的ss/vmess字符串。
+
+![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.pl.png)
+[脚本下载](https://github.com/eexpress/bin/raw/master/ss-vmess-text-2-v2ray-json.pl)
+---
 
 ## git
 ![git](git命令.png)
