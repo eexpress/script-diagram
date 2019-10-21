@@ -46,13 +46,13 @@
 [脚本下载](https://github.com/eexpress/bin/raw/master/o)
 
 ---
-## ss
-> - 终端下混合选择pac/shadowsocks+v2ray的json配置文件。全部文件需放在一个目录。ss-*.json, vv-*.json, *.pac。
+## vv
+> - 终端下混合选择pac/shadowsocks+v2ray的json配置文件。全部文件需放在一个目录。 \*.json, *.pac。
 - 执行文件的路径，需要根据安装的情况设置。
 
-![ss](ss命令.png)
+![vv](vv命令.png)
 
-[脚本下载](https://github.com/eexpress/bin/raw/master/ss)
+[脚本下载](https://github.com/eexpress/bin/raw/master/vv)
 
 ---
 ## catimg
