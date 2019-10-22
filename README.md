@@ -46,13 +46,15 @@
 [脚本下载](https://github.com/eexpress/bin/raw/master/o)
 
 ---
-## vv
+## vv/vvv
 > - 终端下混合选择pac/shadowsocks+v2ray的json配置文件。全部文件需放在一个目录。 \*.json, *.pac。
 - 执行文件的路径，需要根据安装的情况设置。
+- vv是cli版本，vvv是gui版本。
 
-![vv](vv命令.png)
-
-[脚本下载](https://github.com/eexpress/bin/raw/master/vv)
+vv -- cli|vvv -- gui
+--|--
+![vv](vv命令.png)| ![vvv](vvv.png)
+[vv下载](https://github.com/eexpress/bin/raw/master/vv)|[vvv下载](https://github.com/eexpress/bin/raw/master/vvv) [vvv.desktop](https://github.com/eexpress/bin/raw/master/vvv.desktop)
 
 ---
 ## catimg
