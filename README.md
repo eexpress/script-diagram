@@ -49,7 +49,7 @@
 ## vv/vvv
 > - 终端下混合选择pac/shadowsocks+v2ray的json配置文件。全部文件需放在一个目录。 \*.json, *.pac。
 - 执行文件的路径，需要根据安装的情况设置。
-- vv是cli版本，vvv是gui版本。
+- vv是cli版本，vvv是gui版本。会使用颜色或者checkbox表示上一次的状态。
 
 vv -- cli|vvv -- gui
 --|--
