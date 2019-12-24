@@ -81,6 +81,11 @@ vv -- cli|vvv -- gui
 [脚本下载](https://github.com/eexpress/bin/raw/master/ss-vmess-text-2-v2ray-json.pl)
 
 ---
+## 点阵显示
+
+![dotchar](dotchar.pl.png)
+
+---
 
 ## git
 ![git](git命令.png)
