@@ -55,7 +55,7 @@
 vv -- cli|vvv -- gui
 --|--
 ![vv](vv命令.png)| ![vvv](vvv.png)
-[vv下载](https://github.com/eexpress/bin/raw/master/vv)|[vvv下载](https://github.com/eexpress/bin/raw/master/vvv) [vvv.desktop](https://github.com/eexpress/bin/raw/master/vvv.desktop)
+[vv下载](https://github.com/eexpress/bin/raw/master/vv)|[vvv下载](https://github.com/eexpress/bin/raw/master/vv-gui-切换代理-new) [vvv.desktop](https://github.com/eexpress/bin/raw/master/vv.desktop)
 
 ![vvvv](vvvv.png)
 ---
@@ -72,10 +72,13 @@ vv -- cli|vvv -- gui
 
 ---
 ## 全能转换格式
-> ss/vmess字符串，或者网页明文表格文本，转换成v2ray格式的json文件。
+> 参数: ss/vmess字符串/网页明文表格文本，转换成v2ray格式的json文件。
+参数: json文件，转换成对应的ss/vmess字符串。并在tty显示二维码。
+---------------------------------------
 支持ss原版的二维码识别。(需要安装zbarimg)
 为了统一使用v2ray，不支持ssr字符串。
-或从json文件，转换成对应的ss/vmess字符串。
+-s --screen 可以截屏识别二维码。暂时使用import截图，需要安装ImagMagick。没添加scrot支持。
+-c --clip 可以读取剪贴板的多行数据。
 
 ![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.pl.png)
 ![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.1.png)
