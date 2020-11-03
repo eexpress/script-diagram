@@ -82,6 +82,7 @@ vv -- cli|vvv -- gui
 
 ![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.pl.png)
 ![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.1.png)
+![ss-v2ray的全部操作脚本](ss-v2ray的全部操作脚本.png)
 
 [脚本下载](https://github.com/eexpress/bin/raw/master/ss-vmess-text-2-v2ray-json.pl)
 
