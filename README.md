@@ -73,11 +73,11 @@ vv -- cli|vvv -- gui
 ---
 ## 全能转换格式
 
-![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.pl.png)
-![ss-vmess-text-2-v2ray-json](ss-vmess-text-2-v2ray-json.1.png)
+![ss-vmess-QRcode-json](ss-vmess-QRcode-json.pl.png)
+![ss-vmess-QRcode-json](ss-vmess-QRcode-json.1.png)
 ![ss-v2ray的全部操作脚本](ss-v2ray的全部操作脚本.png)
 
-[脚本下载](https://github.com/eexpress/bin/raw/master/ss-vmess-text-2-v2ray-json.pl)
+[脚本下载](https://github.com/eexpress/bin/raw/master/ss-vmess-QRcode-json.pl)
 
 ---
 ## 点阵显示
