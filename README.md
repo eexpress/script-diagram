@@ -46,18 +46,7 @@
 [脚本下载](https://github.com/eexpress/bin/raw/master/o)
 
 ---
-## vv/vvv/vvvv
-> - 终端下混合选择pac/shadowsocks+v2ray的json配置文件。全部文件需放在一个目录。 \*.json, *.pac。
-- 执行文件的路径，需要根据安装的情况设置。
-- vv是cli版本，vvv是gui版本。会使用颜色或者checkbox表示上一次的状态。
-- vvvv是vala版本。
 
-vv -- cli|vvv -- gui
---|--
-![vv](vv命令.png)| ![vvv](vvv.png)
-[vv下载](https://github.com/eexpress/bin/raw/master/vv)|[vvv下载](https://github.com/eexpress/bin/raw/master/vv-gui-切换代理-new) [vvv.desktop](https://github.com/eexpress/bin/raw/master/vv.desktop)
-
-![vvvv](vvvv.png)
 ---
 ## catimg
 ![Awuuu](catimg的输出.png)
@@ -90,3 +79,31 @@ vv -- cli|vvv -- gui
 ![git](git命令.png)
 
 ---
+
+## 简单创立 deb 包的脚本。
+> 准备写一个vala带界面的，其实脚本也够了。
+
+> 第一步就是丢文件进去，这是最人性化的。control 和  desktop 可自动生成。
+```
+⭕ create-deb.pl clip-qrcode-share screenshot0.png  screenshot1.png v0.2
+==============================================
+==============================================
+/tmp/clip-qrcode-share-0.2
+├── DEBIAN
+│   └── control
+└── usr
+    ├── bin
+    │   └── clip-qrcode-share
+    └── share
+        ├── applications
+        │   └── clip-qrcode-share.desktop
+        └── pixmaps
+            ├── screenshot0.png
+            └── screenshot1.png
+
+6 directories, 5 files
+==============================================
+Confirm DEBIAN/control and usr/share/applications/clip-qrcode-share.desktop.
+Excute `sudo dpkg -b /tmp/clip-qrcode-share-0.2` will create deb file:
+==>	/tmp/clip-qrcode-share-0.2.deb
+```
